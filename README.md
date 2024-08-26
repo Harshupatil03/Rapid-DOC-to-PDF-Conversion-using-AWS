@@ -45,6 +45,5 @@ This project provides a solution for converting Microsoft Word documents (.docx)
 ## Contributing
 Contributions to the project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License.
+
 
