@@ -46,4 +46,8 @@ This project provides a solution for converting Microsoft Word documents (.docx)
 Contributions to the project are welcome. Please fork the repository and submit a pull request with your changes.
 
 
+## Document 
+i have uploaded a word file in which all the steps are there for the configuration of the project.
+
+
 
